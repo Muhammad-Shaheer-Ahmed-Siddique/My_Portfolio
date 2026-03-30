@@ -2,8 +2,7 @@
   position: fixed;
   width: 100vw;
   height: var(--vh);
-background: linear-gradient(0deg, #c06de1, #632f99,#4b1a80,#27054a);
-  z-index: 999999999;
+background: linear-gradient(135deg, #e8b5f7, #c06de1, #8f32b8, #6816ba, #4a1a7a);  z-index: 999999999;
   display: flex;
   place-items: center;
   justify-content: center;
